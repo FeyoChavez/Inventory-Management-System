@@ -24,7 +24,7 @@ The core of this system is its relational schema, designed to handle complex bus
 - Integrity: Uses foreign keys and cascading constraints to ensure data consistency across all modules (Purchases, Inventory, and Sales).
 
 ## 🚀 Local Setup
-`git clone https://github.com/FeyoChavez/Sistema-Gestion-Inventario.git`
+`git clone https://github.com/FeyoChavez/Inventory-Management-System.git`
 
 `composer install`
 
