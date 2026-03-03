@@ -26,15 +26,15 @@ The core of this system is its relational schema, designed to handle complex bus
 ## 🚀 Local Setup
 git clone https://github.com/FeyoChavez/Sistema-Gestion-Inventario.git
 
-composer install
+`composer install`
 
-npm install && npm run dev
+`npm install` && `npm run dev`
 
-php artisan key:generate
+`php artisan key:generate`
 
-php artisan migrate --seed
+`php artisan migrate --seed`
 
-php artisan serve
+`php artisan serve`
 
 
 ## Preview
